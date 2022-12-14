@@ -95,6 +95,8 @@ https://habr.com/ru/company/otus/blog/568026/
 
 https://habr.com/ru/company/otus/blog/675730/
 
+https://habr.com/ru/post/570612/
+
 https://e-maxx.ru/algo/strong_connected_components
 
 https://ru.wikipedia.org/wiki/Транспонированный_граф
