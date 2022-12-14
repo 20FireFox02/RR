@@ -56,4 +56,4 @@
 
 Комонента с вершиной, которая связанна с исходной и не принадлежащая к исходной компоненте, будет связана с исходной компонентой.
 
-![1testpict2 0](https://user-images.githubusercontent.com/112986008/204820035-c34d1e58-5e31-44f2-8d2b-63f0546f5290.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
