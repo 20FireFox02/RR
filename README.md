@@ -50,3 +50,36 @@
 
 Граф №1:
 ![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+
+Граф №2:
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+
+Граф №3:
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+
+Граф №4:
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+
+Граф №5:
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+
+Граф №6:
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+
+# Источники
+https://habr.com/ru/company/otus/blog/568026/
+https://habr.com/ru/company/otus/blog/675730/
+https://e-maxx.ru/algo/strong_connected_components
+https://ru.wikipedia.org/wiki/Транспонированный_граф
