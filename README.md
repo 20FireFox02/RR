@@ -49,34 +49,34 @@
 # Примеры выполнения
 
 Граф №1:
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/1source.png)
 ![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/1output.png)
 
 Граф №2:
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/2source.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/2compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/2output.png)
 
 Граф №3:
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/3source.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/3compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/3output.png)
 
 Граф №4:
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/4source.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/4compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/4output.png)
 
 Граф №5:
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/5source.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/5compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/5output.png)
 
 Граф №6:
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/6source.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/6compliting.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/6output.png)
 
 # Источники
 https://habr.com/ru/company/otus/blog/568026/
