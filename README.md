@@ -50,8 +50,9 @@
 
 Граф №1:
 ![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/1source.png)
-![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
 ![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/1output.png)
+![1testpict2 0](https://github.com/20FireFox02/RR/blob/45c8225a5b5f89917c8cdbc52b8b40b9354e4315/1compliting.png)
+
 
 Граф №2:
 ![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/2source.png)
