@@ -48,7 +48,7 @@
 
 # Примеры выполнения
 
-<h1>Граф №1:</h1>
+<h3>Граф №1:</h3>
 
 ![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/1source.png)
 ![1testpict2 0](https://github.com/20FireFox02/RR/blob/16c62e13bbbd8d83c771ab50996e6175d8ff57f1/1output.png)
